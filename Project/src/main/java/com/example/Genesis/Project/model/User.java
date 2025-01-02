@@ -67,4 +67,10 @@ public class User {
 
     public void setId(Long id) {
     }
+
+    public void setPersonID(String PersonID) {
+        this.personID = personID;
+    }
+
+
 }
